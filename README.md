@@ -34,8 +34,8 @@ Wine-managment-system/ ├── src/ │ ├── boundry/ │ ├── contr
 
 ### you can also run the code:
 1. Clone the repository:  
-   - `git clone https://github.com/arbelAskayo/Perfect-Trip-System.git`  
-   - `cd Perfect-Trip-System`
+   - `git clone https://github.com/MaksimAverman/project-new-wineSystem-.git`  
+   - `cd project-new-wineSystem`
 
 2. Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 
